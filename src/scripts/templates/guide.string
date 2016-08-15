@@ -1,17 +1,17 @@
 <div class="swiper-container" id='swiper-container'>
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-    	<img src="/footballApp/img/slide1.png">
+    	<img src="/faith2/img/slide1.png">
     </div>
     <div class="swiper-slide">
-    	<img src="/footballApp/img/slide2.png">
+    	<img src="/faith2/img/slide2.png">
     </div>
     <div class="swiper-slide">
-    	<img src="/footballApp/img/slide3.png">
+    	<img src="/faith2/img/slide3.png">
     	<p></p>
     </div>
     <div class="swiper-slide">
-    	<img src="/footballApp/img/slide4.png">
+    	<img src="/faith2/img/slide4.png">
     	<p action-type='go.index'></p>
     </div>
   </div>
