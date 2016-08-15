@@ -1,0 +1,15 @@
+
+	.swiper-live{
+			ul{
+				@include flexbox();
+				width:200%;
+				height:100%;
+				padding:.05rem;
+				li{
+					text-align:center;
+					@include flex(1);
+					padding:.05rem .1rem;
+					@include border();
+				}
+			}
+		}
