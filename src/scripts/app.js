@@ -12,3 +12,6 @@ require('./views/guide');
 SPA.config({
 	indexView:"index"
 })
+
+console.log('我是女神')
+
