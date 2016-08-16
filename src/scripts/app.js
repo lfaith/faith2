@@ -10,5 +10,5 @@ require('./views/search');
 require('./views/guide');
 //设置默认显示试图
 SPA.config({
-	indexView:"home"
+	indexView:"index"
 })
